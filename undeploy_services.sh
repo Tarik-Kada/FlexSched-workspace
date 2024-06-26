@@ -1,0 +1,1 @@
+kubectl delete -Rf test_functions/services/

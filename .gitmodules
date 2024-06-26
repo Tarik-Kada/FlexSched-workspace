@@ -1,0 +1,15 @@
+[submodule "custom-schedulers"]
+	path = custom-schedulers
+	url = https://github.com/Tarik-Kada/custom-schedulers
+[submodule "custom-scheduler-controller"]
+	path = custom-scheduler-controller
+	url = https://github.com/Tarik-Kada/custom-scheduler-controller
+[submodule "knative-serving"]
+	path = knative-serving
+	url = https://github.com/Tarik-Kada/knative-serving
+[submodule "ks-cs-dashboard"]
+	path = ks-cs-dashboard
+	url = https://github.com/Tarik-Kada/ks-cs-dashboard
+[submodule "logging"]
+	path = logging
+	url = https://github.com/Tarik-Kada/flexsched-logging

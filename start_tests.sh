@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # List of values to loop over
-# values=(1 5 10 25 50 100)
-values=(100)
+values=(1 5 10 25 50 100)
 
 # Number of iterations per value
 iterations=5
